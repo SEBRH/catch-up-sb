@@ -1,10 +1,26 @@
 # CatchUpSb
 
+
+# Summary
+
+Catch News project, illustrating how to fetch and present news from a news service, with news source logo obtained from a third-party service. This proyect is developed with Angular Framework, Angular Material UI Libary. an with that other features that will benefit us.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Pre-requisites
+- Node.js
+- Angular CLI
+- News API key
+
+## Dependencies
+- Angular
+- Angular Material
+- NGX - Translate
 
 ## Code scaffolding
 
